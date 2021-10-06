@@ -1,4 +1,4 @@
-# Multi Collateral Dai Deployment
+# Multi Collateral Dai Deployment - EuroPegged
 ![Build Status](https://github.com/makerdao/dss-deploy/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
 
 This repository contains a smart contract which deploys the core `dss` contracts and sets up the necessary authorisations between them.
