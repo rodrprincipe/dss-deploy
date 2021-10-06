@@ -9,7 +9,7 @@
 	url = https://github.com/makerdao/ds-pause
 [submodule "lib/dss"]
 	path = lib/dss
-	url = https://github.com/makerdao/dss
+	url = https://github.com/rodrprincipe/dss
 [submodule "lib/esm"]
 	path = lib/esm
 	url = https://github.com/makerdao/esm
